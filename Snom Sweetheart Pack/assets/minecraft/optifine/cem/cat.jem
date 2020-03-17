@@ -5,7 +5,7 @@
 			"part": "head",
 			"id": "head",
 			"invertAxis": "xy",
-			"translate": [0, -10, 9],
+			"translate": [0, -10, 17],
 			"mirrorTexture": "u",
 			"submodels": [
 				{
@@ -23,7 +23,7 @@
 			"part": "body",
 			"id": "body",
 			"invertAxis": "xy",
-			"translate": [0, -13, -7],
+			"translate": [0, -21, -7],
 			"mirrorTexture": "u",
 			"submodels": [
 				{
@@ -73,7 +73,7 @@
 			"part": "back_left_leg",
 			"id": "back_left_leg",
 			"invertAxis": "xy",
-			"translate": [1.1, -6, -7],
+			"translate": [1, -6, 2],
 			"mirrorTexture": "u",
 			"submodels": [
 				{
@@ -89,7 +89,7 @@
 			"part": "back_right_leg",
 			"id": "back_right_leg",
 			"invertAxis": "xy",
-			"translate": [-1.1, -6, -7],
+			"translate": [-1, -6, 2],
 			"mirrorTexture": "u",
 			"submodels": [
 				{
@@ -105,7 +105,7 @@
 			"part": "front_left_leg",
 			"id": "front_left_leg",
 			"invertAxis": "xy",
-			"translate": [1.2, -10.2, 5],
+			"translate": [1, -10, 13],
 			"mirrorTexture": "u",
 			"submodels": [
 				{
@@ -121,7 +121,7 @@
 			"part": "front_right_leg",
 			"id": "front_right_leg",
 			"invertAxis": "xy",
-			"translate": [-1.2, -10.2, 5],
+			"translate": [-1, -10, 13],
 			"mirrorTexture": "u",
 			"submodels": [
 				{
