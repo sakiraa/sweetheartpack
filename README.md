@@ -6,7 +6,9 @@ This resource pack requires optifine to work for custom entities.
 The version will be updated after each official Optifine launch. Currently at 1.14.4 F5.
 
 ~ Cats are now snoms. Each breed of cat is turned into a different snom variant. This includes: normal, albine, punk, naked/peeled, rainbow, froggy chair, pyukumuku and pincurchin.
+
 ~ Parrots are now frosmoths. There's a 1 in 5 chance you see a shiny one!
+
 ~ Foxes are now furrets, and arctic ones are shiny!
 
 Known issues: 
