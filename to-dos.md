@@ -5,7 +5,6 @@
 - ~Sea lantern into cat lamp~. Implemented! Although sea lanterns were not up to modification, cat lamps became beacons!
 - Create language file and change GUI
 - Implement froggy chairs (from another closed pack) into this as an individual block
-- Remodel and retexture old entities
 - Make enchantment books' textures reflect the enchantment
 - Make hostile mobs' texture reflect the biome
 - Make quartz look actually white and cute
